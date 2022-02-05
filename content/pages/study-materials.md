@@ -13,8 +13,57 @@ Previous Exams
 
 Previous exams and solutions were provided to students to help them review.
 
-| Years | Exams | Solutions |
-| --- | --- | --- |
-| Spring 2001 | Quiz 1 ([PDF]({{< baseurl >}}/resources/q1_spr01)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q1_spr01_soln)) |
-| Spring 2001 | Quiz 2 ([PDF]({{< baseurl >}}/resources/q2_spr01)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q2_spr01_soln)) |
-| Spring 2001 | Final Exam ([PDF]({{< baseurl >}}/resources/final_spr01)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2 MB]({{< baseurl >}}/resources/final_spr01_soln))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Years
+{{< thclose >}}
+{{< thopen >}}
+Exams
+{{< thclose >}}
+{{< thopen >}}
+Solutions
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Spring 2001
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1 ([PDF]({{< baseurl >}}/resources/q1_spr01))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q1_spr01_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Spring 2001
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2 ([PDF]({{< baseurl >}}/resources/q2_spr01))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q2_spr01_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Spring 2001
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam ([PDF]({{< baseurl >}}/resources/final_spr01))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2 MB]({{< baseurl >}}/resources/final_spr01_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
