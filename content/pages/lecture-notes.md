@@ -54,7 +54,7 @@ L2
 Introduction to Semiconductors: Electrons and Holes, Donors and Acceptors
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec2))
+([PDF]({{< baseurl >}}/resources/lec2))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture2annotat))
@@ -69,7 +69,7 @@ L3
 Carrier Transport: Drift and Diffusion
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec3))
+([PDF]({{< baseurl >}}/resources/lec3))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture3anotat))
@@ -92,7 +92,7 @@ Electrostatics in Semiconductors
 The "60 mV Rule"
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec4))
+([PDF]({{< baseurl >}}/resources/lec4))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture4annotat))
@@ -107,7 +107,7 @@ L5
 p-n Junction Electrostatics in Thermal Equilibrium
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec5))
+([PDF]({{< baseurl >}}/resources/lec5))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture5annotat))
@@ -122,7 +122,7 @@ L6
 p-n Junction Electrostatics under Bias, Depletion Capacitance
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec6))
+([PDF]({{< baseurl >}}/resources/lec6))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture6anotat))
@@ -137,7 +137,7 @@ L7
 MOS Electrostatics at 0 V
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec7))
+([PDF]({{< baseurl >}}/resources/lec7))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture7annotat))
@@ -167,7 +167,7 @@ L9
 MOSFET: I-V Characteristics (Qualitative, Linear)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec9))
+([PDF]({{< baseurl >}}/resources/lec9))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture9annotat))
@@ -197,7 +197,7 @@ L11
 MOSFET Equivalent Circuit Models
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec11))
+([PDF]({{< baseurl >}}/resources/lec11))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture11annotat))
@@ -222,7 +222,7 @@ Inverter Characteristics
 NMOS Inverter
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec12))
+([PDF]({{< baseurl >}}/resources/lec12))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture12annotat))
@@ -239,7 +239,7 @@ CMOS Inverter
 Transfer Characteristics
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec13))
+([PDF]({{< baseurl >}}/resources/lec13))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture13annotat))
@@ -279,7 +279,7 @@ L15
 p-n Junction Diode I-V Characteristics
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec15))
+([PDF]({{< baseurl >}}/resources/lec15))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture15annotat))
@@ -294,10 +294,10 @@ L16
 p-n Junction Equivalent Circuit Models, Charge Storage, Diffusion Capacitance
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec16))
+([PDF]({{< baseurl >}}/resources/lec16))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture16annotat))
+([PDF]({{< baseurl >}}/resources/lecture16annotat))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,7 +309,7 @@ L17
 BJT Electrostatics, Forward Active Regime
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec17))
+([PDF]({{< baseurl >}}/resources/lec17))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture17annotat))
@@ -326,7 +326,7 @@ Other Regimes of Operation of BJT
 Equivalent Circuit Models
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec18))
+([PDF]({{< baseurl >}}/resources/lec18))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture18annotat))
@@ -439,7 +439,7 @@ L25
 Frequency Response of other Amplifier Stages
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec25))
+([PDF]({{< baseurl >}}/resources/lec25))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lecture25annotat))

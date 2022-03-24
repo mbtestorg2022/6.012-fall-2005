@@ -24,7 +24,7 @@ Solutions
 Quiz 1 ([PDF]({{< baseurl >}}/resources/q1_fall05))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q1_soln))
+([PDF]({{< baseurl >}}/resources/q1_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,16 +33,16 @@ Quiz 1 ([PDF]({{< baseurl >}}/resources/q1_fall05))
 Quiz 2 ([PDF]({{< baseurl >}}/resources/q2_fall05))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q2_soln))
+([PDF]({{< baseurl >}}/resources/q2_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Final Exam (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/final))
+Final Exam ([PDF]({{< baseurl >}}/resources/final))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/final_soln))
+([PDF]({{< baseurl >}}/resources/final_soln))
 {{< tdclose >}}
 
 {{< trclose >}}

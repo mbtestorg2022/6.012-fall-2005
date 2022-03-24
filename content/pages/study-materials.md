@@ -37,7 +37,7 @@ Spring 2001
 Quiz 1 ([PDF]({{< baseurl >}}/resources/q1_spr01))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q1_spr01_soln))
+([PDF]({{< baseurl >}}/resources/q1_spr01_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +49,7 @@ Spring 2001
 Quiz 2 ([PDF]({{< baseurl >}}/resources/q2_spr01))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q2_spr01_soln))
+([PDF]({{< baseurl >}}/resources/q2_spr01_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +61,7 @@ Spring 2001
 Final Exam ([PDF]({{< baseurl >}}/resources/final_spr01))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2 MB]({{< baseurl >}}/resources/final_spr01_soln))
+([PDF - 1.2 MB]({{< baseurl >}}/resources/final_spr01_soln))
 {{< tdclose >}}
 
 {{< trclose >}}

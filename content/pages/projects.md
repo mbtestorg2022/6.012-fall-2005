@@ -6,7 +6,7 @@ uid: 2a27c124-7566-c49d-cf5b-169eea2bba33
 
 This section contains the project assignments for the course. This section also provides supporting files for Cadence EDA software, the commercial circuit CAD tools used for the Optical Receiver Design Project.
 
-Optical Receiver Design Project (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/6012_project))
+Optical Receiver Design Project ([PDF]({{< baseurl >}}/resources/6012_project))
 
 Supporting Files
 ----------------
@@ -17,4 +17,4 @@ Cadence Tutorial: Part Two ([PDF]({{< baseurl >}}/resources/cadence_tutrial2)) (
 
 Cadence Spectre MOS1 Models ([PDF]({{< baseurl >}}/resources/spectre_mos1_mod)) (Courtesy of Cadence Design Systems, Inc. Used with permission.)
 
-Cadence Waveform Calculator Functions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://media.advico-microelectronics.com/documents/manuals/Calculator_Functions_Manual_100913.pdf))
+Cadence Waveform Calculator Functions ([PDF](http://media.advico-microelectronics.com/documents/manuals/Calculator_Functions_Manual_100913.pdf))

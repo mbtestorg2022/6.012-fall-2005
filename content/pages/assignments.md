@@ -24,7 +24,7 @@ Topics
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Electrons/Holes, Donors/Acceptors, p-n Diode Characterization (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw1))
+Electrons/Holes, Donors/Acceptors, p-n Diode Characterization ([PDF]({{< baseurl >}}/resources/hw1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ Drift/Diffusion, 60 mV Rule ([PDF]({{< baseurl >}}/resources/hw2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-p-n Junction Electrostatics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw3))
+p-n Junction Electrostatics ([PDF]({{< baseurl >}}/resources/hw3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ MOS Electrostatics ([PDF]({{< baseurl >}}/resources/hw4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-MOSFET (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw5))
+MOSFET ([PDF]({{< baseurl >}}/resources/hw5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ MOSFET (![This resource may not render correctly in a screen reader.](/images/in
 6
 {{< tdclose >}}
 {{< tdopen >}}
-MOSFET Characterization (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw6))
+MOSFET Characterization ([PDF]({{< baseurl >}}/resources/hw6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +96,7 @@ p-n Diode ([PDF]({{< baseurl >}}/resources/hw8))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-BJT, Single-stage Amplifiers (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw9))
+BJT, Single-stage Amplifiers ([PDF]({{< baseurl >}}/resources/hw9))
 {{< tdclose >}}
 
 {{< trclose >}}
