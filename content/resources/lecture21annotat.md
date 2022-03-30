@@ -5,6 +5,7 @@ description: This resource contains the professor's comments on the topics cover
   multistage voltage amplifier, BiCMOS current buffer, coupling amplifier stages.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-012-microelectronic-devices-and-circuits-fall-2005/44a3c61acbf7875ebb2854601c1af2e4_lecture21annotat.pdf
 file_type: application/pdf
+parent_uid: 9ce4c04b-a600-1d3d-5235-419b2783590d
 resourcetype: Document
 title: lecture21annotat.pdf
 uid: 44a3c61a-cbf7-875e-bb28-54601c1af2e4

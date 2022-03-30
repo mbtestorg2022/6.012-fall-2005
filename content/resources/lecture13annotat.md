@@ -5,6 +5,7 @@ description: This resource contains the professor's comments on the topics cover
   with current-source pull-up, and complementary MOS (CMOS) Inverter.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-012-microelectronic-devices-and-circuits-fall-2005/a90807c5ba1e533728d23ead9ec344a3_lecture13annotat.pdf
 file_type: application/pdf
+parent_uid: 9ce4c04b-a600-1d3d-5235-419b2783590d
 resourcetype: Document
 title: lecture13annotat.pdf
 uid: a90807c5-ba1e-5337-28d2-3ead9ec344a3

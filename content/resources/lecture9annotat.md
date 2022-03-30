@@ -5,6 +5,7 @@ description: 'This resource contains the professor''s comments on the topics cov
   IV characteristics.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-012-microelectronic-devices-and-circuits-fall-2005/f12f87c6bb168525a44a32a89c7d1ae7_lecture9annotat.pdf
 file_type: application/pdf
+parent_uid: 9ce4c04b-a600-1d3d-5235-419b2783590d
 resourcetype: Document
 title: lecture9annotat.pdf
 uid: f12f87c6-bb16-8525-a44a-32a89c7d1ae7
